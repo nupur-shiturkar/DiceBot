@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/nupur-shiturkar/DiceBot/issues"
   },
-  "homepage": "https://github.com/nupur-shiturkar/DiceBot#readme"
+  "homepage": "https://github.com/nupur-shiturkar/DiceBot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
 }
